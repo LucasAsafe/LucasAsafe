@@ -1,10 +1,10 @@
 ## Hi There, I'm Lucas Asafe 👋
 
 <a href="https://www.linkedin.com/in/lucasasafe/">
-  <img align="left" alt="Lucas Asafe | Linkedin" width="20px" src="https://raw.githubusercontent.com/lucasasafe/lucasasafe/master/assets/linkedin-brands.svg" />
+  <img align="left" alt="Lucas Asafe | Linkedin" width="20px" src="https://raw.githubusercontent.com/lucasasafe/lucasasafe/master/icons/linkedin-brands.svg" />
 </a>
 <a href="https://twitter.com/Lucas_Asafe1">
-  <img align="left" alt="Lucas Asafe | Twitter" width="20px" src="https://raw.githubusercontent.com/lucasasafe/lucasasafe/master/assets/twitter-square-brands.svg" />
+  <img align="left" alt="Lucas Asafe | Twitter" width="20px" src="https://raw.githubusercontent.com/lucasasafe/lucasasafe/master/icons/twitter-square-brands.svg" />
 </a>
 
 <br />
