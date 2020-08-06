@@ -8,6 +8,7 @@
 </a>
 
 <br />
+<i>As a sad fact, i can't display all my repos since almost all of them are private :< </i>
 <br />
 
 - 🔭 I’m currently working as FullStack Developer [@Virtue-Tecnologia](https://github.com/virtuetecnologia) at [Queiroz Cavalcanti Advocacia](https://github.com/Queiroz-Cavalcanti-Advocacia)
