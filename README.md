@@ -8,8 +8,12 @@
 </a>
 
 <br />
-<i>As a sad fact, i can't display all my repos since almost all of them are private :< </i>
+<br>
+
+<i>As a sad fact, it is not possible to display all of my repositories, as almost all are private. And because of that, the data below is not correct. :< </i>
+
 <br />
+<br>
 
 - 🔭 I’m currently working as FullStack Developer [@Virtue-Tecnologia](https://github.com/virtuetecnologia) at [Queiroz Cavalcanti Advocacia](https://github.com/Queiroz-Cavalcanti-Advocacia)
 - 🌱 I am currently learning more about the MERN stack, as I am working with LAMP. Also eager to learn something about data engineering and improve my skills with PHP through framworks like Laravel and Symfony
