@@ -10,7 +10,7 @@
 <br />
 <br>
 
-<i>As a sad fact, it is not possible to display all of my repositories, as almost all are private. And because of that, the data below is not correct. :< </i>
+<i>As a sad fact, it is not possible to display all of my repositories, as almost all are private. And because of that, the top language data below isnt correct. :< </i>
 
 <br />
 
